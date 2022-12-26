@@ -1,0 +1,15 @@
+C:\Users\bindiya.tandel\OneDrive - 1Rivet US, Inc\Work\Basic Authentication\Services\bin\Debug\net6.0\Services.deps.json
+C:\Users\bindiya.tandel\OneDrive - 1Rivet US, Inc\Work\Basic Authentication\Services\bin\Debug\net6.0\Services.dll
+C:\Users\bindiya.tandel\OneDrive - 1Rivet US, Inc\Work\Basic Authentication\Services\bin\Debug\net6.0\Services.pdb
+C:\Users\bindiya.tandel\OneDrive - 1Rivet US, Inc\Work\Basic Authentication\Services\bin\Debug\net6.0\Entities.dll
+C:\Users\bindiya.tandel\OneDrive - 1Rivet US, Inc\Work\Basic Authentication\Services\bin\Debug\net6.0\Entities.pdb
+C:\Users\bindiya.tandel\OneDrive - 1Rivet US, Inc\Work\Basic Authentication\Services\obj\Debug\net6.0\Services.csproj.AssemblyReference.cache
+C:\Users\bindiya.tandel\OneDrive - 1Rivet US, Inc\Work\Basic Authentication\Services\obj\Debug\net6.0\Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bindiya.tandel\OneDrive - 1Rivet US, Inc\Work\Basic Authentication\Services\obj\Debug\net6.0\Services.AssemblyInfoInputs.cache
+C:\Users\bindiya.tandel\OneDrive - 1Rivet US, Inc\Work\Basic Authentication\Services\obj\Debug\net6.0\Services.AssemblyInfo.cs
+C:\Users\bindiya.tandel\OneDrive - 1Rivet US, Inc\Work\Basic Authentication\Services\obj\Debug\net6.0\Services.csproj.CoreCompileInputs.cache
+C:\Users\bindiya.tandel\OneDrive - 1Rivet US, Inc\Work\Basic Authentication\Services\obj\Debug\net6.0\Services.csproj.CopyComplete
+C:\Users\bindiya.tandel\OneDrive - 1Rivet US, Inc\Work\Basic Authentication\Services\obj\Debug\net6.0\Services.dll
+C:\Users\bindiya.tandel\OneDrive - 1Rivet US, Inc\Work\Basic Authentication\Services\obj\Debug\net6.0\refint\Services.dll
+C:\Users\bindiya.tandel\OneDrive - 1Rivet US, Inc\Work\Basic Authentication\Services\obj\Debug\net6.0\Services.pdb
+C:\Users\bindiya.tandel\OneDrive - 1Rivet US, Inc\Work\Basic Authentication\Services\obj\Debug\net6.0\ref\Services.dll

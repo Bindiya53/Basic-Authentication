@@ -27,7 +27,17 @@
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "C:\\Users\\bindiya.tandel\\OneDrive - 1Rivet US, Inc\\Work\\Basic Authentication\\Entities\\Entities.csproj": {
+                "projectPath": "C:\\Users\\bindiya.tandel\\OneDrive - 1Rivet US, Inc\\Work\\Basic Authentication\\Entities\\Entities.csproj"
+              },
+              "C:\\Users\\bindiya.tandel\\OneDrive - 1Rivet US, Inc\\Work\\Basic Authentication\\Models\\Models.csproj": {
+                "projectPath": "C:\\Users\\bindiya.tandel\\OneDrive - 1Rivet US, Inc\\Work\\Basic Authentication\\Models\\Models.csproj"
+              },
+              "C:\\Users\\bindiya.tandel\\OneDrive - 1Rivet US, Inc\\Work\\Basic Authentication\\Services\\Services.csproj": {
+                "projectPath": "C:\\Users\\bindiya.tandel\\OneDrive - 1Rivet US, Inc\\Work\\Basic Authentication\\Services\\Services.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
@@ -60,6 +70,181 @@
             "Microsoft.AspNetCore.App": {
               "privateAssets": "none"
             },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\bindiya.tandel\\OneDrive - 1Rivet US, Inc\\Work\\Basic Authentication\\Entities\\Entities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\bindiya.tandel\\OneDrive - 1Rivet US, Inc\\Work\\Basic Authentication\\Entities\\Entities.csproj",
+        "projectName": "Entities",
+        "projectPath": "C:\\Users\\bindiya.tandel\\OneDrive - 1Rivet US, Inc\\Work\\Basic Authentication\\Entities\\Entities.csproj",
+        "packagesPath": "C:\\Users\\bindiya.tandel\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\bindiya.tandel\\OneDrive - 1Rivet US, Inc\\Work\\Basic Authentication\\Entities\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\bindiya.tandel\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\auth0.management.apis": {},
+          "C:\\work\\Claim-Process-Management\\src\\shared\\Scs.Adapters": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\bindiya.tandel\\OneDrive - 1Rivet US, Inc\\Work\\Basic Authentication\\Models\\Models.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\bindiya.tandel\\OneDrive - 1Rivet US, Inc\\Work\\Basic Authentication\\Models\\Models.csproj",
+        "projectName": "Models",
+        "projectPath": "C:\\Users\\bindiya.tandel\\OneDrive - 1Rivet US, Inc\\Work\\Basic Authentication\\Models\\Models.csproj",
+        "packagesPath": "C:\\Users\\bindiya.tandel\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\bindiya.tandel\\OneDrive - 1Rivet US, Inc\\Work\\Basic Authentication\\Models\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\bindiya.tandel\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\auth0.management.apis": {},
+          "C:\\work\\Claim-Process-Management\\src\\shared\\Scs.Adapters": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\bindiya.tandel\\OneDrive - 1Rivet US, Inc\\Work\\Basic Authentication\\Services\\Services.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\bindiya.tandel\\OneDrive - 1Rivet US, Inc\\Work\\Basic Authentication\\Services\\Services.csproj",
+        "projectName": "Services",
+        "projectPath": "C:\\Users\\bindiya.tandel\\OneDrive - 1Rivet US, Inc\\Work\\Basic Authentication\\Services\\Services.csproj",
+        "packagesPath": "C:\\Users\\bindiya.tandel\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\bindiya.tandel\\OneDrive - 1Rivet US, Inc\\Work\\Basic Authentication\\Services\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\bindiya.tandel\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\auth0.management.apis": {},
+          "C:\\work\\Claim-Process-Management\\src\\shared\\Scs.Adapters": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\bindiya.tandel\\OneDrive - 1Rivet US, Inc\\Work\\Basic Authentication\\Entities\\Entities.csproj": {
+                "projectPath": "C:\\Users\\bindiya.tandel\\OneDrive - 1Rivet US, Inc\\Work\\Basic Authentication\\Entities\\Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }

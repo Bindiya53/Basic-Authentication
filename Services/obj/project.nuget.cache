@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ufJa85B/phr07vj+DBZZigzHgPN6B1Ajt9SQFma0KcPiQe9/a+dNYvbYwn12sLdxVm/vbKtnc6Ga5ZjRWIvnRA==",
+  "dgSpecHash": "TQ9vLo/o73MLgB1Tmgm5Mqt7B2q3nzCqx7KuNNP82jKIi2jRfdOuBbOIyz8hPMZIM3W0otLgHP/NVAuYjyjplw==",
   "success": true,
-  "projectFilePath": "c:\\Users\\bindiya.tandel\\OneDrive - 1Rivet US, Inc\\Work\\Basic Authentication\\Services\\Services.csproj",
+  "projectFilePath": "C:\\Users\\bindiya.tandel\\OneDrive - 1Rivet US, Inc\\Work\\Basic Authentication\\Services\\Services.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\bindiya.tandel\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\6.0.0\\microsoft.aspnetcore.authentication.jwtbearer.6.0.0.nupkg.sha512",
     "C:\\Users\\bindiya.tandel\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",

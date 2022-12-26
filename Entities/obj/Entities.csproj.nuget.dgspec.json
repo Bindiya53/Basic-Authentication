@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\bindiya.tandel\\OneDrive - 1Rivet US, Inc\\Work\\Basic Authentication\\Entities\\Entities.csproj": {}
+    "C:\\Users\\bindiya.tandel\\OneDrive - 1Rivet US, Inc\\Work\\Basic Authentication\\Entities\\Entities.csproj": {}
   },
   "projects": {
-    "c:\\Users\\bindiya.tandel\\OneDrive - 1Rivet US, Inc\\Work\\Basic Authentication\\Entities\\Entities.csproj": {
+    "C:\\Users\\bindiya.tandel\\OneDrive - 1Rivet US, Inc\\Work\\Basic Authentication\\Entities\\Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\bindiya.tandel\\OneDrive - 1Rivet US, Inc\\Work\\Basic Authentication\\Entities\\Entities.csproj",
+        "projectUniqueName": "C:\\Users\\bindiya.tandel\\OneDrive - 1Rivet US, Inc\\Work\\Basic Authentication\\Entities\\Entities.csproj",
         "projectName": "Entities",
-        "projectPath": "c:\\Users\\bindiya.tandel\\OneDrive - 1Rivet US, Inc\\Work\\Basic Authentication\\Entities\\Entities.csproj",
+        "projectPath": "C:\\Users\\bindiya.tandel\\OneDrive - 1Rivet US, Inc\\Work\\Basic Authentication\\Entities\\Entities.csproj",
         "packagesPath": "C:\\Users\\bindiya.tandel\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\bindiya.tandel\\OneDrive - 1Rivet US, Inc\\Work\\Basic Authentication\\Entities\\obj\\",
+        "outputPath": "C:\\Users\\bindiya.tandel\\OneDrive - 1Rivet US, Inc\\Work\\Basic Authentication\\Entities\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\bindiya.tandel\\AppData\\Roaming\\NuGet\\NuGet.Config"

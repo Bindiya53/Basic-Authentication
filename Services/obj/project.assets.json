@@ -436,11 +436,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\bindiya.tandel\\OneDrive - 1Rivet US, Inc\\Work\\Basic Authentication\\Services\\Services.csproj",
+      "projectUniqueName": "C:\\Users\\bindiya.tandel\\OneDrive - 1Rivet US, Inc\\Work\\Basic Authentication\\Services\\Services.csproj",
       "projectName": "Services",
-      "projectPath": "c:\\Users\\bindiya.tandel\\OneDrive - 1Rivet US, Inc\\Work\\Basic Authentication\\Services\\Services.csproj",
+      "projectPath": "C:\\Users\\bindiya.tandel\\OneDrive - 1Rivet US, Inc\\Work\\Basic Authentication\\Services\\Services.csproj",
       "packagesPath": "C:\\Users\\bindiya.tandel\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\bindiya.tandel\\OneDrive - 1Rivet US, Inc\\Work\\Basic Authentication\\Services\\obj\\",
+      "outputPath": "C:\\Users\\bindiya.tandel\\OneDrive - 1Rivet US, Inc\\Work\\Basic Authentication\\Services\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\bindiya.tandel\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -449,14 +449,16 @@
         "net6.0"
       ],
       "sources": {
+        "C:\\auth0.management.apis": {},
+        "C:\\work\\Claim-Process-Management\\src\\shared\\Scs.Adapters": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "c:\\Users\\bindiya.tandel\\OneDrive - 1Rivet US, Inc\\Work\\Basic Authentication\\Entities\\Entities.csproj": {
-              "projectPath": "c:\\Users\\bindiya.tandel\\OneDrive - 1Rivet US, Inc\\Work\\Basic Authentication\\Entities\\Entities.csproj"
+            "C:\\Users\\bindiya.tandel\\OneDrive - 1Rivet US, Inc\\Work\\Basic Authentication\\Entities\\Entities.csproj": {
+              "projectPath": "C:\\Users\\bindiya.tandel\\OneDrive - 1Rivet US, Inc\\Work\\Basic Authentication\\Entities\\Entities.csproj"
             }
           }
         }
