@@ -1,0 +1,27 @@
+C:\Users\bindiya.tandel\OneDrive - 1Rivet US, Inc\Work\Basic Authentication\Basic Authentication.Api\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\bindiya.tandel\OneDrive - 1Rivet US, Inc\Work\Basic Authentication\Basic Authentication.Api\bin\Debug\net6.0\appsettings.json
+C:\Users\bindiya.tandel\OneDrive - 1Rivet US, Inc\Work\Basic Authentication\Basic Authentication.Api\bin\Debug\net6.0\Basic Authentication.Api.exe
+C:\Users\bindiya.tandel\OneDrive - 1Rivet US, Inc\Work\Basic Authentication\Basic Authentication.Api\bin\Debug\net6.0\Basic Authentication.Api.deps.json
+C:\Users\bindiya.tandel\OneDrive - 1Rivet US, Inc\Work\Basic Authentication\Basic Authentication.Api\bin\Debug\net6.0\Basic Authentication.Api.runtimeconfig.json
+C:\Users\bindiya.tandel\OneDrive - 1Rivet US, Inc\Work\Basic Authentication\Basic Authentication.Api\bin\Debug\net6.0\Basic Authentication.Api.dll
+C:\Users\bindiya.tandel\OneDrive - 1Rivet US, Inc\Work\Basic Authentication\Basic Authentication.Api\bin\Debug\net6.0\Basic Authentication.Api.pdb
+C:\Users\bindiya.tandel\OneDrive - 1Rivet US, Inc\Work\Basic Authentication\Basic Authentication.Api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\bindiya.tandel\OneDrive - 1Rivet US, Inc\Work\Basic Authentication\Basic Authentication.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\bindiya.tandel\OneDrive - 1Rivet US, Inc\Work\Basic Authentication\Basic Authentication.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\bindiya.tandel\OneDrive - 1Rivet US, Inc\Work\Basic Authentication\Basic Authentication.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\bindiya.tandel\OneDrive - 1Rivet US, Inc\Work\Basic Authentication\Basic Authentication.Api\obj\Debug\net6.0\Basic Authentication.Api.csproj.AssemblyReference.cache
+C:\Users\bindiya.tandel\OneDrive - 1Rivet US, Inc\Work\Basic Authentication\Basic Authentication.Api\obj\Debug\net6.0\Basic Authentication.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bindiya.tandel\OneDrive - 1Rivet US, Inc\Work\Basic Authentication\Basic Authentication.Api\obj\Debug\net6.0\Basic Authentication.Api.AssemblyInfoInputs.cache
+C:\Users\bindiya.tandel\OneDrive - 1Rivet US, Inc\Work\Basic Authentication\Basic Authentication.Api\obj\Debug\net6.0\Basic Authentication.Api.AssemblyInfo.cs
+C:\Users\bindiya.tandel\OneDrive - 1Rivet US, Inc\Work\Basic Authentication\Basic Authentication.Api\obj\Debug\net6.0\Basic Authentication.Api.csproj.CoreCompileInputs.cache
+C:\Users\bindiya.tandel\OneDrive - 1Rivet US, Inc\Work\Basic Authentication\Basic Authentication.Api\obj\Debug\net6.0\Basic Authentication.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\bindiya.tandel\OneDrive - 1Rivet US, Inc\Work\Basic Authentication\Basic Authentication.Api\obj\Debug\net6.0\Basic Authentication.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\bindiya.tandel\OneDrive - 1Rivet US, Inc\Work\Basic Authentication\Basic Authentication.Api\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\bindiya.tandel\OneDrive - 1Rivet US, Inc\Work\Basic Authentication\Basic Authentication.Api\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\bindiya.tandel\OneDrive - 1Rivet US, Inc\Work\Basic Authentication\Basic Authentication.Api\obj\Debug\net6.0\scopedcss\bundle\Basic Authentication.Api.styles.css
+C:\Users\bindiya.tandel\OneDrive - 1Rivet US, Inc\Work\Basic Authentication\Basic Authentication.Api\obj\Debug\net6.0\Basic Authentication.Api.csproj.CopyComplete
+C:\Users\bindiya.tandel\OneDrive - 1Rivet US, Inc\Work\Basic Authentication\Basic Authentication.Api\obj\Debug\net6.0\Basic Authentication.Api.dll
+C:\Users\bindiya.tandel\OneDrive - 1Rivet US, Inc\Work\Basic Authentication\Basic Authentication.Api\obj\Debug\net6.0\refint\Basic Authentication.Api.dll
+C:\Users\bindiya.tandel\OneDrive - 1Rivet US, Inc\Work\Basic Authentication\Basic Authentication.Api\obj\Debug\net6.0\Basic Authentication.Api.pdb
+C:\Users\bindiya.tandel\OneDrive - 1Rivet US, Inc\Work\Basic Authentication\Basic Authentication.Api\obj\Debug\net6.0\Basic Authentication.Api.genruntimeconfig.cache
+C:\Users\bindiya.tandel\OneDrive - 1Rivet US, Inc\Work\Basic Authentication\Basic Authentication.Api\obj\Debug\net6.0\ref\Basic Authentication.Api.dll
